@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/qinkeith/package-test"
+    "url": "git://github.com/qinkeith/package-test.git"
   },
   "keywords": [],
   "author": "",
