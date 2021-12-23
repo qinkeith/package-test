@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/qinkeith/package-test/issues"
   },
-  "homepage": "https://github.com/qinkeith/package-test#readme"
+  "homepage": "https://github.com/qinkeith/package-test#readme",
+  "publishConfig": {
+    "qinkeith:registry": "https://npm.pkg.github.com"
+ }
 }
